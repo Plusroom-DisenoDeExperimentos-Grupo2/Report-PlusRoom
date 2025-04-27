@@ -360,3 +360,110 @@ Distribución de usuarios según redes sociales favoritas
 
 ![image](https://github.com/user-attachments/assets/650a89ec-38e1-4a50-a886-99dda70de822)
 
+
+## 1.3 Needfinding
+
+### 1.3.1 User Personas
+
+En esta sección, se elaborarán los User Persona para cada segmento objetivo de nuestro proyecto: arrendatarios y arrendadores. Con este fin, se recopiló la información obtenida en las entrevistas para perfilar mejor el tipo de clientes al que nuestro aplicativo irá dirigido y qué necesidades debemos cubrir. De esta manera, cada user persona representará las características principales de nuestros futuros usuarios.
+
+Segmento 1: Arrendador
+
+![image](https://github.com/user-attachments/assets/b4c8c185-0873-42c3-9ce4-1867ef69ebb4)
+
+Segmento 2: Arrendatario
+
+![image](https://github.com/user-attachments/assets/5a0bdf10-6fea-4429-ad43-2f2ea4e824f9)
+
+
+### 1.3.2 User Task Matrix
+
+A continuación, mediante el User Task Matrix, se mostrarán la frecuencia e importancia de las tareas mediante las cuales nuestros User Persona, arrendador y arrendatario, lograrán sus objetivos.
+
+|<a name="_toc131683598"></a>**User Task Matrix.**|**Antonio Luján (Arrendador)**||**Paola Ruiz (Arrendatario)**||
+| :- | :- | :- | :- | :- |
+||Frecuencia|Importancia|Frecuencia|Importancia|
+|Buscar propiedades y/o alquileres disponibles|Always|High|Always|High|
+|Comunicarse con el dueño o posible interesado.|Often|High|Often|High|
+|Coordinar visitas y reuniones para el alquiler de la vivienda|Often|Medium|Often|Medium|
+|Establecer y aceptar los acuerdos de alquiler|Always|High|Often|High|
+|Comparar precios de alquileres|Often|Medium|Always|High|
+
+
+
+### 1.3.3 User Journey Mapping
+
+El User Journey Mapping es una herramienta que muestra como nuestros usuarios ,representados por los User Persona, interactuarán con nuestro aplicativo para lograr sus objetivos. Se presentarán sus experiencias en la búsqueda de herramientas que faciliten encontrar y/o alquilar una propiedad, los problemas que pueden surgir, el cómo se sintieron en el proceso y que oportunidades les brinda la aplicación que escogieron. De esta manera, podremos entender mejor a nuestros usuarios y las posibles mejoras que necesite nuestro proyecto.
+
+Segmento 1: Arrendador
+
+![image](https://github.com/user-attachments/assets/4a348061-0992-45ee-a34c-f1bb402caac2)
+
+
+Segmento 2: Arrendatario
+
+![image](https://github.com/user-attachments/assets/8e09fa5d-0c2e-4450-98fe-563f0dc4fa9f)
+
+### 1.3.4 Empathy Mapping
+
+Un empathy map nos permite entender lo que piensan y sienten nuestros usuarios al afrontar sus problemas. Así podemos identificar sus necesidades y entender mejor el enfoque que debe tener nuestro aplicativo para satisfacer a ambos segmentos objetivos.
+
+Segmento 1: Arrendador
+
+![image](https://github.com/user-attachments/assets/73466160-174b-4f82-966e-cb60c89dfc68)
+
+
+Segmento 2: Arrendatario
+
+![image](https://github.com/user-attachments/assets/f77d841b-a68a-4641-b34a-127a9e672ffd)
+
+
+### 1.3.5 As-Is Scenario Mapping
+
+Un As-Is Scenario Mapping es una herramienta que nos permite visualizar el estado actual de nuestros segmentos objetivos en su búsqueda de cumplir metas. Al mapear los puntos críticos en estos procesos, podemos identificar y destacar áreas de mejora en la experiencia de los futuros clientes antes de que interactúen con nuestro aplicativo. Este análisis facilita el desarrollo de estrategias y la identificación de los principales problemas que enfrentan tanto arrendatarios como arrendadores.
+
+As-Is Scenario mapping para Arrendadores:
+
+![image](https://github.com/user-attachments/assets/6f29a0ce-2e51-4136-87f9-b898bac37869)
+
+
+As-Is Scenario mapping para Arrendatarios:
+
+![image](https://github.com/user-attachments/assets/c789cc78-8fd5-48a3-a388-2f0320731018)
+
+
+## 1.4 Ubiquitous Language
+
+**Entidades principales**
+
+- **Usuario**: Persona que utiliza la app. Puede ser **inquilino** (roommate) o **propietario** (anfitrión).
+- **Inquilino**: Usuario que busca alquilar una habitación o departamento.
+- **Propietario**: Usuario que publica una propiedad en alquiler.
+- **Propiedad**: Departamento o habitación disponible para alquilar.
+- **Habitación**: Unidad dentro de una propiedad. Puede alquilarse individualmente.
+- **Anuncio**: Publicación que describe una propiedad o habitación disponible.
+- **Perfil del usuario**: Información personal, preferencias, historial y verificación.
+- **Roommate Match**: Coincidencia entre inquilinos compatibles.
+- **Solicitud de alquiler**: Propuesta enviada por un inquilino para alquilar una propiedad o habitación.
+- **Contrato de arrendamiento**: Acuerdo entre propietario e inquilino dentro de la app.
+- **Pago**: Transacción de dinero gestionada por la app.
+- **Mensajería**: Sistema de comunicación entre usuarios.
+- **Favoritos**: Lista de anuncios guardados por un inquilino interesado.
+- **Disponibilidad**: Fechas en las que una propiedad o habitación está libre.
+
+` `**Funcionalidades y procesos**
+
+- **Búsqueda de propiedades**: Proceso en el que un inquilino filtra propiedades por ubicación, precio, características, etc.
+- **Publicar anuncio**: Acción del propietario para listar una propiedad o habitación.
+- **Aplicar a una propiedad**: Acción del inquilino para enviar una solicitud de alquiler.
+- **Aceptar/rechazar solicitud**: Decisión del propietario frente a una solicitud recibida.
+- **Match de roommates**: Proceso de sugerencia de compañeros de cuarto basados en intereses, hábitos y preferencias.
+- **Confirmar reserva**: Aceptación mutua que activa el contrato de arrendamiento.
+- **Gestionar pagos**: Procesamiento de pagos y generación de comprobantes.
+- **Verificación de identidad**: Validación de datos del usuario para generar confianza.
+- **Calificaciones y comentarios**: Feedback posterior a la experiencia de alquiler.
+- **Historial de alquileres**: Registro de propiedades ocupadas o alquiladas.
+
+
+
+
