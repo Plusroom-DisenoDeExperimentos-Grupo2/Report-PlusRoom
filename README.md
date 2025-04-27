@@ -17,6 +17,15 @@ La propuesta se sustenta en cifras que evidencian la magnitud del problema: en A
 
 ### <a name="_toc131683581"></a><a name="_toc176978458"></a> <a name="_toc196614459"></a>Perfil de integrantes del equipo
 
+## 1.1.2 Perfil de integrantes del equipo
+
+| Integrante | Descripción |
+|:---|:---|
+| <img src="https://media.discordapp.net/attachments/1366161780409372742/1366162054821580860/image.png?ex=680ff10f&is=680e9f8f&hm=7f1a28c6d3a8d686ed16a966fd68e3eb5fc9db96431f8d9d3c92d8c663d73e2d&=&format=webp&quality=lossless" alt="Foto de Gustavo" width="100"/> | **Gustavo Jandroel Aguirre Rodríguez**<br>Mi nombre es Gustavo Jandroel Aguirre Rodríguez y soy estudiante de Ingeniería de Software. Mi aporte principal al equipo radica en mis conocimientos en planificación y diseño de software. Durante mi formación, he trabajado en varios proyectos con diferentes tecnologías. Espero aplicar mis habilidades en este proyecto y colaborar con el equipo para alcanzar nuestros objetivos. |
+| <img src="https://media.discordapp.net/attachments/1366161780409372742/1366162071682547712/image.png?ex=680ff113&is=680e9f93&hm=71d862b09f83002df140fc0855e01e49788c0852c4c9322ffc7418051f5d76c6&=&format=webp&quality=lossless" alt="Foto de Gustavo Adolfo" width="100"/> | **Gustavo Adolfo Pardo Zapata**<br>Estudiante de la carrera de Ingeniería de Software. Soy proactivo, colaborativo, organizado, responsable y con habilidades de resolución de problemas. Tengo una excelente capacidad para comunicarme de manera efectiva y clara con los demás miembros de mi equipo y deseo colaborar en todo lo posible con mis demás compañeros en este trabajo. Cuento con conocimiento en JavaScript, Java, Python, C# y SQL. |
+| <img src="https://media.discordapp.net/attachments/1366161780409372742/1366162528593383606/image.png?ex=680ff180&is=680ea000&hm=b7c04e31a91e5363c1399bd3edf4f328578ac4c1f0a979a8ee10e217139b2148&=&format=webp&quality=lossless" alt="Foto de Mauricio" width="100"/> | **Mauricio Alberto Salas Pujay**<br>Soy Mauricio Alberto Salas Pujay, Estudiante de la carrera de Ingeniería de Software. Me considero una persona proactiva ante adversidad y retos que pueda enfrentar al realizar un proyecto. Con habilidades en diferentes lenguajes de programación, la cual me ayuda a concretar objetivos claros tanto en frontend y backend. Así también mi aporte al equipo de forma asertiva y teniendo una buena comunicación. |
+| <img src="https://media.discordapp.net/attachments/1366161780409372742/1366162540601807008/image.png?ex=680ff183&is=680ea003&hm=0802e8544f256058beab7442b08461438c2d1315fc7f5169ef4183a76234ac07&=&format=webp&quality=lossless" alt="Foto de Andrea" width="100"/> | **Andrea Namie O’Higgins Rosales**<br>Soy Andrea Namie O’Higgins Rosales. Estudiante de Ingeniería de software y me encuentro en 7to ciclo. Me considero una persona organizada y responsable, con conocimientos tanto en frontend como en backend. Además, estoy dispuesta a trabajar en equipo para llevar a cabo el proyecto. |
+| <img src="https://media.discordapp.net/attachments/1366161780409372742/1366162555478999150/image.png?ex=680ff187&is=680ea007&hm=241a3d6c2b7c5dfa08ba6e75e0de5bad3d036bf2a01576ecc955e43bfffd60cb&=&format=webp&quality=lossless" alt="Foto de Joan" width="100"/> | **Joan Jefferson Talizo Balbín**<br>Estudiante de 6to ciclo de Ingeniería de Software con enfoque en desarrollo full stack. Manejo tecnologías como Java, Spring Boot y MySQL para el backend, y cuento con conocimientos en Angular, React y Flutter para el frontend. Actualmente me encuentro aprendiendo Next.js y NestJS para fortalecer mis habilidades. Me considero una persona proactiva, responsable y comprometida con el proyecto, siempre dispuesto a seguir aprendiendo y adaptarme a las herramientas necesarias para alcanzar los objetivos del equipo. |
 
 
 
@@ -168,6 +177,10 @@ Initial Segment (Segmento inicial)
 
 
 #### *1.2.2.4 Lean UX Canvas*
+
+
+<img src="https://media.discordapp.net/attachments/1366161780409372742/1366162587762294894/image.png?ex=680ff18e&is=680ea00e&hm=8426c14eff8eded2f440ce2de0df886e9d0e84021dec9565eef1dd123c27e0ec&=&format=webp&quality=lossless" alt="canvas" width="auto"/>
+
 
 
 
