@@ -514,4 +514,30 @@ A continuación, se presentan capturas de la interfaz de Swagger documentando la
 
 ---
 
+### 5.2.7 Team Collaboration Insights
 
+Durante el desarrollo del proyecto PlusRoom, se aplicaron diversas estrategias de colaboración para asegurar una gestión eficiente y una comunicación efectiva entre todos los miembros del equipo.
+
+#### Herramientas de Colaboración Utilizadas
+
+- **Discord:** Comunicación diaria mediante canales de texto y voz para la coordinación de tareas, resolución de dudas y reuniones de planificación.
+- **GitHub:** Control de versiones y colaboración en el desarrollo de código a través de Pull Requests, revisiones y control de ramas.
+
+#### Estrategias de Trabajo en Equipo
+
+- **Reuniones periódicas:** Realización de Sprint Plannings y revisiones semanales para actualizar el progreso.
+- **Distribución equitativa de tareas:** Cada integrante asumió responsabilidades en diferentes módulos (base de datos, backend, frontend web, frontend mobile).
+- **Feedback constante:** Revisión y comentarios sobre los avances de los demás para mejorar la calidad general del proyecto.
+- **Documentación continua:** Registro de acuerdos y decisiones en plataformas de colaboración.
+
+#### Evidencia de la Colaboración
+
+A continuación, se presentan capturas de las herramientas utilizadas para la gestión y colaboración:
+
+![Discord Collaboration Evidence](https://media.discordapp.net/attachments/1360791180715098306/1361184753499246694/image.png?ex=6810f356&is=680fa1d6&hm=2536d553714397ec29865b284ef4111369c83316a39c25eaa7517224a973e5a9&=&format=webp&quality=lossless&width=550&height=310)
+
+#### URL del repositorio del Project Report
+
+El reporte final del proyecto PlusRoom, incluyendo toda la documentación, se encuentra disponible en el repositorio de la organización en GitHub:
+
+[Repositorio Project Report - Plusroom-DiseñoDeExperimentos-Grupo2](https://github.com/Plusroom-DisenoDeExperimentos-Grupo2)
