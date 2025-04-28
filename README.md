@@ -212,3 +212,45 @@ Las herramientas consideradas para el desarrollo de la aplicación incluyen:
 - **WebStorm**
 
 ---
+
+### 5.1.4 Software Deployment Configuration
+
+Para el despliegue del backend del proyecto, creamos un repositorio en GitHub donde almacenamos la API RESTful desarrollada con `Spring Boot`.  
+Este repositorio contiene todo el código fuente y los archivos de configuración necesarios para el despliegue.
+
+Para facilitar la visualización y prueba de los endpoints de la API, integramos `Swagger`, una herramienta que permite documentar y probar APIs de forma interactiva.  
+`Spring Boot` facilita esta integración mediante dependencias específicas y configuraciones de Swagger.
+
+---
+
+#### Repositorio del Backend
+
+El repositorio dedicado al backend se llama **backend-plusRoom** y contiene:
+
+- Código fuente (`src/`).
+- Archivos de configuración (`application.properties`, `pom.xml`).
+- Implementación de controladores para gestión de usuarios, publicaciones, mensajes y medios.
+
+![Repositorio Backend PlusRoom](https://raw.githubusercontent.com/Kaitozerob/Report-PlusRoom/refs/heads/main/assets/SoftwareConfigurationManagement/SoftwareDeploymentConfiguration/GitHubAPIREST.png?token=GHSAT0AAAAAADALQOIAVNBWLCS7EXPPE45E2APXJMA)
+
+---
+
+#### Documentación de la API con Swagger
+
+Swagger expone los diferentes endpoints RESTful de la API, organizados en controladores específicos:
+
+- `user-controller`: Gestión de usuarios y autenticación.
+- `post-controller`: Gestión de publicaciones y autores.
+- `message-controller`: Gestión de mensajes entre usuarios.
+- `media-controller`: Gestión de carga y obtención de archivos multimedia.
+
+La interfaz de Swagger facilita:
+
+- Visualizar todos los endpoints disponibles.
+- Probar los métodos `GET`, `POST`, `PUT` y `DELETE` directamente desde el navegador.
+
+![Documentación Swagger PlusRoom API](https://raw.githubusercontent.com/Kaitozerob/Report-PlusRoom/refs/heads/main/assets/SoftwareConfigurationManagement/SoftwareDeploymentConfiguration/PlusRoomAPI.png?token=GHSAT0AAAAAADALQOIBHLDSJE5FZLVIXERY2APXJ2A)
+
+![Documentación Swagger PlusRoom API](https://raw.githubusercontent.com/Kaitozerob/Report-PlusRoom/refs/heads/main/assets/SoftwareConfigurationManagement/SoftwareDeploymentConfiguration/PlusRoomAPI_part2.png?token=GHSAT0AAAAAADALQOIAPCPYBRESUBVKQLGW2APXKHQ)
+
+---
