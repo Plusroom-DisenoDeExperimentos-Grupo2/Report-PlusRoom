@@ -166,7 +166,7 @@ Repositorio de la organización:
 ---
 #### Evidencia de Gestión de Código
 
-![GitHub Repository Evidence](https://raw.githubusercontent.com/Kaitozerob/Report-PlusRoom/refs/heads/main/assets/SoftwareConfigurationManagement/GitHubRepositoryEvidence/GitHubRepository.png?token=GHSAT0AAAAAADALQOIARWMMRBAA23XDRB762APWNZQ)
+![GitHub Repository Evidence](https://cdn.discordapp.com/attachments/1366161780409372742/1366479809856934020/GitHubRepository.png?ex=681118fe&is=680fc77e&hm=901fccc39d8e10534557cdbf147ad5ffbcde784fbec9261a7eacb383714b5330&)
 
 ---
 
@@ -244,7 +244,7 @@ El repositorio dedicado al backend se llama **backend-plusRoom** y contiene:
 - Archivos de configuración (`application.properties`, `pom.xml`).
 - Implementación de controladores para gestión de usuarios, publicaciones, mensajes y medios.
 
-![Repositorio Backend PlusRoom](https://raw.githubusercontent.com/Kaitozerob/Report-PlusRoom/refs/heads/main/assets/SoftwareConfigurationManagement/SoftwareDeploymentConfiguration/GitHubAPIREST.png?token=GHSAT0AAAAAADALQOIAVNBWLCS7EXPPE45E2APXJMA)
+![Repositorio Backend PlusRoom](https://media.discordapp.net/attachments/1366161780409372742/1366480057014554703/GitHubAPIREST.png?ex=68111939&is=680fc7b9&hm=5ff12762995833f89d22983381d12779a471d9c4da14914492df43e65c5d6a07&=&format=webp&quality=lossless)
 
 ---
 
@@ -262,9 +262,9 @@ La interfaz de Swagger facilita:
 - Visualizar todos los endpoints disponibles.
 - Probar los métodos `GET`, `POST`, `PUT` y `DELETE` directamente desde el navegador.
 
-![Documentación Swagger PlusRoom API](https://raw.githubusercontent.com/Kaitozerob/Report-PlusRoom/refs/heads/main/assets/SoftwareConfigurationManagement/SoftwareDeploymentConfiguration/PlusRoomAPI.png?token=GHSAT0AAAAAADALQOIBHLDSJE5FZLVIXERY2APXJ2A)
+![Documentación Swagger PlusRoom API](https://media.discordapp.net/attachments/1366161780409372742/1366480057865998467/PlusRoomAPI.png?ex=68111939&is=680fc7b9&hm=40dd3e7d6e294f900ed77cde73a9efecfa7594ecb3f7e2aa5ef5d77f1208c313&=&format=webp&quality=lossless)
 
-![Documentación Swagger PlusRoom API](https://raw.githubusercontent.com/Kaitozerob/Report-PlusRoom/refs/heads/main/assets/SoftwareConfigurationManagement/SoftwareDeploymentConfiguration/PlusRoomAPI_part2.png?token=GHSAT0AAAAAADALQOIAPCPYBRESUBVKQLGW2APXKHQ)
+![Documentación Swagger PlusRoom API](https://media.discordapp.net/attachments/1366161780409372742/1366480057505157150/PlusRoomAPI_part2.png?ex=68111939&is=680fc7b9&hm=e757aa3a9d489ea7bd409ff379d59903f2f053e738c5bb4126f2fd70b09b8d54&=&format=webp&quality=lossless)
 
 ---
 
