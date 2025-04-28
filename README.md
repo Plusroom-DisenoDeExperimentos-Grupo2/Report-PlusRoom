@@ -401,3 +401,27 @@ A continuación, se presentan capturas de la Landing Page implementada:
 ![Landing Page Evidence 2](https://media.discordapp.net/attachments/1366161780409372742/1366497113692704890/PlusRoomLandingPage_part2.png?ex=6811291c&is=680fd79c&hm=a95e952d10914d7bd18ea7cefc00f68f4e605865397ca547773b7807c1899606&=&format=webp&quality=lossless&width=1124&height=577)
 
 ![Landing Page Evidence 3](https://media.discordapp.net/attachments/1366161780409372742/1366497114141626459/PlusRoomLandingPage_part3.png?ex=6811291c&is=680fd79c&hm=97ce0ecf5e1a083f5fa4bda260d62904fd209a04b382f3b166b64528b1c2a44d&=&format=webp&quality=lossless&width=1124&height=575)
+
+---
+
+### 5.2.3 Implemented Frontend-Web Application Evidence
+
+Se inició el desarrollo de la **aplicación web frontend** de PlusRoom utilizando Angular, tomando como base los wireframes, wireflows, mockups y user flows diseñados en la etapa de Product Design.
+
+Actualmente, la aplicación web se encuentra en proceso de implementación, habiendo avanzado en las siguientes funcionalidades:
+
+- Módulo de autenticación de usuarios (login y registro).
+- Navegación entre las principales vistas de la aplicación.
+- Visualización de publicaciones de habitaciones.
+
+- **Tecnologías utilizadas:** Angular, TypeScript, HTML5, CSS3.
+- **Basado en:** Diseño UX/UI realizado en Figma
+
+#### Evidencia del Desarrollo de la Aplicación Web
+
+![Web Design Evidence 1](https://media.discordapp.net/attachments/1366161780409372742/1366508156108411021/PlusRoomWebApplication_part3.png?ex=68113364&is=680fe1e4&hm=8307a086458f14a62387f559e91532ec38c55bc8fb94ec17afabb708309878e9&=&format=webp&quality=lossless)
+
+![Web Design Evidence 2](https://media.discordapp.net/attachments/1366161780409372742/1366508156498350150/PlusRoomWebApplication.png?ex=68113365&is=680fe1e5&hm=9a279c5c6d9a8301d6b0231cf3bb0af0d2bd1fc021c1f25b08e75270f111b6b3&=&format=webp&quality=lossless)
+
+![Web Design Evidence 3](https://media.discordapp.net/attachments/1366161780409372742/1366508155705753630/PlusRoomWebApplication_part2.png?ex=68113364&is=680fe1e4&hm=94547c703047991c0e2ba3bf9d3f83f63d7890f02b84de8dc9e3d3d18c1cb5bf&=&format=webp&quality=lossless)
+
