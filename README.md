@@ -559,3 +559,47 @@ Puedes visualizar el video en el siguiente enlace: [Ver Video de Presentación d
 ![Video Presentation Evidence](https://media.discordapp.net/attachments/1366161780409372742/1366521568112541797/AboutTheProduct.png?ex=68113fe2&is=680fee62&hm=622d23cad133151d0db174a4caa949102469060adea96ec92907f498cacee9cc&=&format=webp&quality=lossless&width=1248&height=781)
 
 ---
+
+# Conclusiones y Recomendaciones
+
+Durante este proceso, adquirimos conocimientos clave sobre el diseño de interfaces de usuario, integración de servicios backend y optimización del rendimiento.  
+Nos enfrentamos a varios desafíos, lo que nos ayudó a mejorar nuestras habilidades en resolución de problemas y trabajo en equipo.  
+A lo largo del proyecto, nos encontramos con tecnologías y conceptos nuevos que no dominábamos inicialmente, logrando superarlos mediante la investigación y práctica.  
+Gracias a la retroalimentación recibida en cada entrega, aprendimos a valorar las críticas constructivas para mejorar el producto.  
+El trabajo en grupo fue esencial para el éxito del proyecto, enriqueciendo el proceso y mejorando la calidad final del producto desarrollado.
+
+---
+
+# Bibliografía
+
+- Instituto Nacional de Estadística e Informática. (s. f.). *Índice Temático - Housing*. INEI. Recuperado el 24 de agosto de 2024, de https://m.inei.gob.pe/estadisticas/indice-tematico/housing/
+
+- Gestión. (2024, 8 de abril). *Alquileres de roommates: ¿Cuánto se ahorra al vivir con un compañero de departamento?* Recuperado de https://gestion.pe/tu-dinero/inmobiliarias/alquileres-de-roommates-cuanto-se-ahorra-al-vivir-con-un-companero-de-departamento-noticia/
+
+- El Peruano. (s. f.). *¿Piensas alquilar tu departamento? Conoce cómo evitar futuros juicios de desalojo*. Recuperado de https://www.elperuano.pe/noticia/222150-piensas-alquilar-tu-departamento-conoce-como-evitar-futuros-juicios-de-desalojo
+
+- Wasilewski, K., & Zabierowski, W. (2021). A comparison of Java, Flutter and Kotlin/Native technologies for sensor data-driven applications. *Sensors, 21*(10), 3324. https://doi.org/10.3390/s21103324
+
+- Zhang, X., Lin, Z., & Maeng, J. (2022). Investigating the impact of home-sharing on the traditional rental market. *Internet Research, 32*(7), 169–184. https://doi.org/10.1108/INTR-03-2021-0190
+
+- Besbris, M., Schachter, A., & Kuk, J. (2021). The unequal availability of rental housing information across neighborhoods. *Demography, 58*(4), 1197–1221. https://doi.org/10.1215/00703370-9357518
+
+- Brockbernd, B., Koval, N., van Deursen, A., & Kulahcioglu Ozkan, B. (2024). Understanding concurrency bugs in real-world programs with Kotlin coroutines. En *Proceedings of the 38th European Conference on Object-Oriented Programming (ECOOP 2024)* (Vol. 8, pp. 1–8). https://doi.org/10.4230/LIPIcs.ECOOP.2024.8
+
+- Comisión Económica para América Latina y el Caribe (CEPAL). (2022). *Juventud, empleo y vivienda en América Latina y el Caribe*. https://www.cepal.org/
+
+- Instituto Nacional de Estadística e Informática (INEI). (2023). *Condiciones de vida de la población joven en el Perú*. https://www.inei.gob.pe/
+
+---
+
+# Anexos
+
+- **Link del Canvas de Proyecto:**  
+  [Canvas en Miro](https://miro.com/welcomeonboard/a2dud2xsYnBLRE9UU0JYM1ZDT1BUWmVodGJ0WmRSZZZUTWZvYbGpOZ3lXN3lXZ2VMI1YzSXNlV0x2b3JMYnIEOXwzNDU4NzY0NTUxNjE3ODMSMTcyfDl?share_link_id=22852305173)
+
+---
+
+# Videos de Exposiciones
+
+- **TB1:**  
+  [Video de Exposición TB1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202124162_upc_edu_pe/...)
