@@ -378,3 +378,26 @@ Para la planificación del Sprint 1, se llevó a cabo una reunión remota median
 | TS-06 | Optimización del rendimiento | 5 | 5 | Gustavo Aguirre | Done |
 
 ---
+
+### 5.2.2 Implemented Landing Page Evidence
+
+Se desarrolló una **Landing Page** como punto de entrada principal de la plataforma PlusRoom, orientada a captar nuevos usuarios y explicar los beneficios del servicio.  
+Esta Landing Page fue diseñada basándose en los wireframes y prototipos realizados durante la etapa de Product Design.
+
+- **Tecnologías utilizadas:** HTML5, CSS3, JavaScript
+- **Funcionalidades principales:**
+    - Presentación de la propuesta de valor de PlusRoom.
+    - Información general sobre las funcionalidades de la plataforma.
+    - Llamados a la acción para el registro y navegación.
+
+#### Evidencia de la Landing Page
+
+Puedes visitar la Landing Page en el siguiente enlace: [Ver Landing Page](https://wx61-grupo2-aplicacionesmoviles.github.io/LandingPage-plusroom/#home)
+
+A continuación, se presentan capturas de la Landing Page implementada:
+
+![Landing Page Evidence 1](https://media.discordapp.net/attachments/1366161780409372742/1366497114586349778/PlusRoomLandingPage.png?ex=6811291c&is=680fd79c&hm=af660f4825aa0a18b15cf2ec08d5a12c1b14d36897408bba23f66b67c929031c&=&format=webp&quality=lossless&width=1124&height=572)
+
+![Landing Page Evidence 2](https://media.discordapp.net/attachments/1366161780409372742/1366497113692704890/PlusRoomLandingPage_part2.png?ex=6811291c&is=680fd79c&hm=a95e952d10914d7bd18ea7cefc00f68f4e605865397ca547773b7807c1899606&=&format=webp&quality=lossless&width=1124&height=577)
+
+![Landing Page Evidence 3](https://media.discordapp.net/attachments/1366161780409372742/1366497114141626459/PlusRoomLandingPage_part3.png?ex=6811291c&is=680fd79c&hm=97ce0ecf5e1a083f5fa4bda260d62904fd209a04b382f3b166b64528b1c2a44d&=&format=webp&quality=lossless&width=1124&height=575)
