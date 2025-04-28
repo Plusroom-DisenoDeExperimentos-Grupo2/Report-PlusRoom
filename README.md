@@ -425,3 +425,32 @@ Actualmente, la aplicación web se encuentra en proceso de implementación, habi
 
 ![Web Design Evidence 3](https://media.discordapp.net/attachments/1366161780409372742/1366508155705753630/PlusRoomWebApplication_part2.png?ex=68113364&is=680fe1e4&hm=94547c703047991c0e2ba3bf9d3f83f63d7890f02b84de8dc9e3d3d18c1cb5bf&=&format=webp&quality=lossless)
 
+### 5.2.4 Implemented Native-Mobile Application Evidence
+
+Se desarrolló una **aplicación móvil nativa** para PlusRoom utilizando Flutter, con el objetivo de ofrecer a los usuarios una experiencia fluida y optimizada para dispositivos Android e iOS.
+
+Actualmente, la aplicación móvil cuenta con las siguientes funcionalidades implementadas:
+
+- Registro e inicio de sesión de usuarios.
+- Creación de publicaciones de habitaciones disponibles.
+- Visualización de publicaciones existentes.
+- Envío de mensajes internos entre usuarios.
+- Gestión del perfil de usuario.
+
+- **Tecnologías utilizadas:** Flutter, Dart, conexión a la API RESTful desarrollada en Spring Boot.
+
+#### Evidencia de la Aplicación Móvil
+
+Puedes visualizar capturas del avance de la aplicación móvil a continuación:
+
+![Mobile App Evidence 1](https://media.discordapp.net/attachments/1366161780409372742/1366512738305703946/PlusRoomMobileApplication.png?ex=681137a9&is=680fe629&hm=d6a260342fbc653196eb4a536d662be3daf01c223c1f5f7027dad299d1a01913&=&format=webp&quality=lossless)
+
+![Mobile App Evidence 2](https://media.discordapp.net/attachments/1366161780409372742/1366512736627986513/PlusRoomMobileApplication_part2.png?ex=681137a8&is=680fe628&hm=62dfe81066f7dc71d4fe25cdcb5ea93fb306b885f715f2e2527c7daaecc6274a&=&format=webp&quality=lossless)
+
+![Mobile App Evidence 3](https://media.discordapp.net/attachments/1366161780409372742/1366512736950943784/PlusRoomMobileApplication_part3.png?ex=681137a9&is=680fe629&hm=0f016a74948be3365917146c926161d36580311cea4967de15810efdb2b0a3b8&=&format=webp&quality=lossless)
+
+![Mobile App Evidence 4](https://media.discordapp.net/attachments/1366161780409372742/1366512737303138408/PlusRoomMobileApplication_part4.png?ex=681137a9&is=680fe629&hm=b55dc3ac0fe08e95b8d2fdc253131f53a7ab7526941975a66934fccea162d23b&=&format=webp&quality=lossless)
+
+![Mobile App Evidence 5](https://media.discordapp.net/attachments/1366161780409372742/1366512737739472937/PlusRoomMobileApplication_part5.png?ex=681137a9&is=680fe629&hm=d4e4d9cb327f829404b777c388d6f6cfcfaccd9783b7bb4cd28a22fa83118b67&=&format=webp&quality=lossless)
+
+![Mobile App Evidence 6](https://media.discordapp.net/attachments/1366161780409372742/1366512738066497626/PlusRoomMobileApplication_part6.png?ex=681137a9&is=680fe629&hm=5c5c5cab647aadfaa216323a94ad65e5198f2d960e0f0f9148d585e3716dd69c&=&format=webp&quality=lossless)
