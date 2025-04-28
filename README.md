@@ -541,3 +541,21 @@ A continuación, se presentan capturas de las herramientas utilizadas para la ge
 El reporte final del proyecto PlusRoom, incluyendo toda la documentación, se encuentra disponible en el repositorio de la organización en GitHub:
 
 [Repositorio Project Report - Plusroom-DiseñoDeExperimentos-Grupo2](https://github.com/Plusroom-DisenoDeExperimentos-Grupo2)
+
+---
+
+## 5.3 Video About-the-Product
+
+Para complementar la evidencia de implementación del proyecto PlusRoom, se realizó un video de presentación que muestra el funcionamiento de la plataforma, incluyendo:
+
+- Introducción general del proyecto.
+- Demostración de la Landing Page.
+- Navegación en la aplicación web.
+- Funcionalidades principales de la aplicación móvil.
+- Uso de la API RESTful y comunicación entre los componentes.
+
+Puedes visualizar el video en el siguiente enlace: [Ver Video de Presentación de PlusRoom](https://upcedupe-my.sharepoint.com/personal/u201621873_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu201621873%5Fupc%5Fedu%5Fpe%2FDocuments%2FPlusRoomFULL%5F1%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E7befcd0f%2D514a%2D4cd9%2Da09e%2Dcb00eaea7c31)
+
+![Video Presentation Evidence](https://media.discordapp.net/attachments/1366161780409372742/1366521568112541797/AboutTheProduct.png?ex=68113fe2&is=680fee62&hm=622d23cad133151d0db174a4caa949102469060adea96ec92907f498cacee9cc&=&format=webp&quality=lossless&width=1248&height=781)
+
+---
