@@ -254,3 +254,114 @@ La interfaz de Swagger facilita:
 ![Documentación Swagger PlusRoom API](https://raw.githubusercontent.com/Kaitozerob/Report-PlusRoom/refs/heads/main/assets/SoftwareConfigurationManagement/SoftwareDeploymentConfiguration/PlusRoomAPI_part2.png?token=GHSAT0AAAAAADALQOIAPCPYBRESUBVKQLGW2APXKHQ)
 
 ---
+
+## 5.2 Product Implementation & Deployment
+
+En esta sección se presenta la implementación del producto PlusRoom, incluyendo las evidencias de la landing page, aplicaciones (web y móvil) y el backend.  
+Cada componente fue desarrollado siguiendo los requisitos definidos y buenas prácticas de diseño, desarrollo y despliegue.
+
+---
+
+### 5.2.1 Sprint Backlogs
+
+Durante el desarrollo del proyecto, se organizaron las actividades en sprints para facilitar la planificación, el control de tareas y el seguimiento de avances.  
+A continuación, se muestra el detalle de la planificación del Sprint 1:
+
+---
+
+### Sprint Planning 1
+
+| Sprint # | Sprint 1                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+|:--|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Sprint Planning Background** | -                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| **Date** | 13 de abril de 2025                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| **Time** | 5 horas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| **Location** | Discord (Modalidad remota)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| **Prepared By** | Gustavo Aguirre Rodríguez (u202124162)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| **Attendees (to planning meeting)** | Gustavo Pardo (u202120347) <br> Mauricio Salas (u202120467) <br> Gustavo Aguirre (u202124162) <br> Joan Talizo (u202223781) <br> Andrea O’Higgins (u20221B178)                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| **Sprint 0 Review Summary** | Se diseñó y verificó el backend utilizando `Spring Boot`.<br> Se definió la estructura de la base de datos y los endpoints de la API RESTful.                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| **Sprint 1 Retrospective Summary** | Se completó el diseño de la API RESTful.<br> Se mejoró la planificación de tareas.<br> Se mejoró la comunicación diaria del equipo.                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| **Sprint Goal & User Stories** |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| **Sprint 1 Goal** | Desarrollo de la base de datos, backend inicial, diseño de la Landing Page, estructura del Frontend Web y Mobile, implementación de Swagger para documentación.                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| **Sprint 1 Velocity** | - **TS-01** Configuración de la Base de Datos (Story Points 8) <br>- **TS-09** Configuración del Backend (Story Points 8) <br> - **US-07** Diseño de interfaz de usuario (Mobile) (Story Points 8) <br> - **TS-01 (Frontend Mobile)** Implementación de navegación básica (Story Points 8) <br> - **TS-02 (Mobile)** Sistema de Autenticación y Registro (Story Points 8) <br> - **US-06 Buscar inmuebles (Web)** (Story Points 8) <br> - **US-12 Filtrar inmuebles (Web)** (Story Points 5) <br> - **US-17 Buscar roomies (Web)** (Story Points 8) <br> - **US-18 Crear perfil de roomie (Web)** (Story Points 5) |
+  | **Sum of Story Points** | **61 Story Points**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+
+#### Evidencia de Sprint Planning 1
+
+Para la planificación del Sprint 1, se llevó a cabo una reunión remota mediante Discord, donde participaron todos los integrantes del equipo:
+
+![Sprint Planning Meeting Evidence](https://cdn.discordapp.com/attachments/1360791180715098306/1361184753499246694/image.png?ex=6810f356&is=680fa1d6&hm=2536d553714397ec29865b284ef4111369c83316a39c25eaa7517224a973e5a9&)
+
+---
+
+### Sprint 1 - Sprint Backlog General
+
+| ID | User Story | Work-item/Task | Description | Estimation (Hours) | Assigned To     | Status |
+|:--|:--|:--|:--|:--|:----------------|:--|
+| TS-01 | Configuración de la Base de Datos | Selección del DBMS | Investigar y seleccionar el DBMS adecuado | 4 | Gustavo Pardo   | Done |
+| TS-01 | Configuración de la Base de Datos | Diseño del Esquema de la Base de Datos | Definir tablas, campos y relaciones | 4 | Gustavo Pardo   | Done |
+| TS-01 | Configuración de la Base de Datos | Creación de la Base de Datos | Crear el esquema en el DBMS | 4 | Mauricio Salas | Done |
+| TS-09 | Configuración del Backend | Investigación de Frameworks | Investigar opciones de frameworks (Spring Boot) | 4 | Gustavo Aguirre  | Done |
+| TS-09 | Configuración del Backend | Selección de Frameworks | Elegir el framework adecuado | 4 | Mauricio Salas  | Done |
+| TS-09 | Configuración del Backend | Diseño de la Arquitectura | Definir componentes, capas y patrones | 8 | Joan Talizo     | Done |
+| TS-09 | Configuración del Backend | Implementación de la lógica de negocio | Programar servicios iniciales | 8 | AndreaO’Higgins | Done |
+| TS-09 | Configuración del Backend | Pruebas de conexión y funcionalidad | Verificar conexión DB y API | 4 | Joan Talizo     | Done |
+
+---
+
+### Sprint Backlog 2 - Mobile Frontend
+
+| ID | Título | Story Points | Sprint | Assigned To | Status |
+|:--|:--|:--|:--|:--|:--|
+| US-07 | Diseñar interfaz de usuario (Mobile) | 8 | 2 | Andrea O’Higgins | Done |
+| TS-01 | Implementar navegación básica (Mobile) | 8 | 2 | Joan Talizo | Done |
+| TS-02 | Sistema de Autenticación y Registro (Mobile) | 8 | 2 | Gustavo Aguirre | Done |
+
+---
+
+### Sprint Backlog 3 - Web Frontend (Búsquedas y Perfiles)
+
+| ID | Título | Story Points | Sprint | Assigned To | Status |
+|:--|:--|:--|:--|:--|:--|
+| US-06 | Buscar inmuebles | 8 | 3 | Mauricio Salas | Done |
+| US-12 | Filtrar inmuebles | 5 | 3 | Mauricio Salas | Done |
+| US-17 | Buscar roomies | 8 | 3 | Joan Talizo | Done |
+| US-18 | Crear perfil de roomie | 5 | 3 | Andrea O’Higgins | Done |
+| US-13 | Crear mi perfil de usuario | 5 | 3 | Gustavo Pardo | Done |
+| US-19 | Ver perfil de posibles roomies | 5 | 3 | Gustavo Pardo | Done |
+| US-20 | Filtrar roomies | 8 | 3 | Joan Talizo | Done |
+| TS-04 | Funcionalidad de Búsqueda Avanzada | 5 | 3 | Gustavo Aguirre | Done |
+
+---
+
+### Sprint Backlog 4 - Web Frontend (Publicaciones y Gestión de Perfiles)
+
+| ID | Título | Story Points | Sprint | Assigned To | Status |
+|:--|:--|:--|:--|:--|:--|
+| TS-02 | Sistema de Autenticación y Registro (Web) | 8 | 4 | Gustavo Pardo | Done |
+| US-09 | Publicar en la aplicación (Web) | 8 | 4 | Mauricio Salas | Done |
+| US-25 | Editar Perfil de usuario | 3 | 4 | Andrea O’Higgins | Done |
+| US-10 | Ver mis publicaciones | 8 | 4 | Joan Talizo | Done |
+| US-24 | Editar publicaciones | 3 | 4 | Andrea O’Higgins | Done |
+| US-08 | Visualizar arrendatarios | 5 | 4 | Gustavo Aguirre | Done |
+
+---
+
+### Sprint Backlog 5 - Web y Mobile (Colaborativo entre todo el equipo)
+
+| ID | Título | Story Points | Sprint | Assigned To | Status |
+|:--|:--|:--|:--|:--|:--|
+| US-07 | Rentar inmueble | 5 | 5 | Andrea O’Higgins | Done |
+| US-23 | Enviar información de roomies | 5 | 5 | Mauricio Salas | Done |
+| TS-08 | Mantenimiento general de la app | 5 | 5 | Gustavo Aguirre | Done |
+| US-11 | Calificar arrendador | 5 | 5 | Gustavo Pardo | Done |
+| US-16 | Tomar fotos del inmueble | 5 | 5 | Andrea O’Higgins | Done |
+| TS-03 | Integración de API de Mapas | 5 | 5 | Joan Talizo | Done |
+| TS-05 | Implementación de mensajería | 5 | 5 | Gustavo Aguirre | Done |
+| US-21 | Enviar mensajes a usuarios | 5 | 5 | Mauricio Salas | Done |
+| US-22 | Recibir notificaciones | 5 | 5 | Joan Talizo | Done |
+| US-15 | Promocionar publicaciones | 5 | 5 | Gustavo Pardo | Done |
+| US-14 | Plan de suscripción | 5 | 5 | Gustavo Pardo | Done |
+| TS-06 | Optimización del rendimiento | 5 | 5 | Gustavo Aguirre | Done |
+
+---
