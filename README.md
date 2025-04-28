@@ -157,3 +157,58 @@ Repositorio de la organización:
 
 ---
 
+### 5.1.3 Source Code Style Guide & Conventions
+
+Para el desarrollo de nuestro proyecto, hemos adoptado algunas referencias para nombrar elementos y programar en los lenguajes utilizados para la solución.
+
+---
+
+#### Convenciones de idioma
+
+- Se utiliza el idioma **español** para todos los artefactos que sirven como evidencia de desarrollo de la aplicación (documentos, reportes, diagramas, etc.).
+- Se utiliza el idioma **inglés** para la elaboración del **código fuente**, tanto para el desarrollo de back-end como de front-end.
+
+---
+
+#### Nomenclatura
+
+Para todo lo relacionado con el uso y modificación de los distintos repositorios, seguimos la nomenclatura establecida en la sección de **Software Development Environment Configuration**.
+
+Adicionalmente, adoptamos las siguientes convenciones:
+
+- **Variables y funciones:** Se utiliza el estilo `camelCase`, donde la primera palabra inicia en minúscula y cada nueva palabra inicia con mayúscula.
+- **Clases y componentes:** Se utiliza el estilo `PascalCase`, donde cada palabra, incluida la primera, inicia en mayúscula.
+- **Constantes:** Se utiliza el estilo `UPPER_SNAKE_CASE`, donde todas las letras son mayúsculas y se separan con guiones bajos (`_`).
+
+---
+
+#### Ejemplos de Nomenclatura Adoptada
+
+| Estilo | Ejemplo | Uso |
+|:------|:--------|:----|
+| `camelCase` | `calculateFinalPrice` | Variables, funciones, métodos |
+| `PascalCase` | `ShoppingCart` | Clases, componentes |
+| `UPPER_SNAKE_CASE` | `MAX_ATTEMPTS` | Constantes |
+
+---
+
+#### Tecnologías
+
+Se continúa utilizando las tecnologías definidas durante los sprints anteriores para el desarrollo de la aplicación:
+
+- **HTML5**
+- **CSS3**
+
+---
+
+#### Herramientas
+
+Las herramientas consideradas para el desarrollo de la aplicación incluyen:
+
+- **Android Studio**
+- **GitHub**
+- **Gitflow**
+- **Figma**
+- **WebStorm**
+
+---
