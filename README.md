@@ -484,3 +484,34 @@ A continuación, se presentan capturas del backend desarrollado:
 ![MySQL_Evidence_3](https://media.discordapp.net/attachments/1366161780409372742/1366518211176169472/ServicesDocumentationEvidenceMySQL.png?ex=68113cc2&is=680feb42&hm=a8749ff615fb410edf5c2aa6f1412a53c190ad008fa9634a1c07242a768c88bd&=&format=webp&quality=lossless)
 
 ![MySQL_Evidence_4](https://media.discordapp.net/attachments/1366161780409372742/1366518211620900985/SoftwareDeploymentEvidenceForSprintReview.png?ex=68113cc2&is=680feb42&hm=48d3fd95fad1661ff27fff2e5c0331b4d6b45e817fffa91dada8f79f7bf12283&=&format=webp&quality=lossless)
+
+---
+
+### 5.2.6 RESTful API Documentation
+
+La documentación de la API RESTful de PlusRoom se realizó utilizando **Swagger (OpenAPI)**, permitiendo explorar e interactuar de forma sencilla con todos los endpoints del backend.
+
+- **Herramienta utilizada:** Swagger UI
+- **Propósito de la documentación:**
+  - Describir los servicios disponibles en la API.
+  - Facilitar las pruebas de los métodos `GET`, `POST`, `PUT`, `DELETE` sin necesidad de clientes externos.
+  - Mejorar la comprensión del flujo de datos entre el frontend (web y móvil) y el backend.
+
+#### Principales Categorías Documentadas
+
+- **Users:** Registro, inicio de sesión, recuperación de contraseñas.
+- **Posts:** Creación, edición y visualización de publicaciones de habitaciones.
+- **Messages:** Envío y recepción de mensajes internos entre usuarios.
+- **Media:** Carga y acceso a imágenes relacionadas con las publicaciones.
+
+#### Evidencia de la Documentación API
+
+A continuación, se presentan capturas de la interfaz de Swagger documentando la API RESTful:
+
+![Swagger Documentation Evidence 1](https://media.discordapp.net/attachments/1366161780409372742/1366519233256620032/RESTfulAPISwagger.png?ex=68113db5&is=680fec35&hm=1356d0207fed5643e6092448d0942e9c8039dc198b8d56ceffa72e3979914919&=&format=webp&quality=lossless)
+
+![Swagger Documentation Evidence 2](https://media.discordapp.net/attachments/1366161780409372742/1366519232975736832/RESTfulAPISwagger_part2.png?ex=68113db5&is=680fec35&hm=c7bb5936a609161cfcbaba8dfa567ddfd3acdb023ade74cc48534bdd5a28d966&=&format=webp&quality=lossless&width=1144&height=607)
+
+---
+
+
