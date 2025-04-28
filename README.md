@@ -15,7 +15,7 @@ Para gestionar los avances y coordinar los trabajos en tiempo real y de manera o
 - **Descripción:** Servicio que permite compartir archivos, carpetas y fotos en la nube, facilitando la colaboración en equipo.
 - **Link:** [Microsoft OneDrive](https://www.microsoft.com/es-es/microsoft-365/onedrive/online-cloud-storage)
 
-![Microsoft OneDrive](https://raw.githubusercontent.com/Kaitozerob/Report-PlusRoom/refs/heads/main/assets/SoftwareConfigurationManagement/SoftwareDeveloperEnvironmentConfiguration/MicrosoftOneDrive.png?token=GHSAT0AAAAAADALQOIADZQAK72UUDKERBDG2APVFJA)
+![Microsoft OneDrive](https://media.discordapp.net/attachments/1366161780409372742/1366474349975965706/MicrosoftOneDrive.png?ex=681113e8&is=680fc268&hm=2c51e23e7045ea0acde759c8e462115d0320c2ac2a0cbc77cefa26b1d5ac50d0&=&format=webp&quality=lossless)
 
 ---
 
@@ -24,7 +24,7 @@ Para gestionar los avances y coordinar los trabajos en tiempo real y de manera o
 - **Descripción:** Plataforma de mensajería instantánea y chat de voz, organizada en servidores y canales de texto o voz.
 - **Link:** [Discord](https://discord.com/)
 
-![Discord](https://raw.githubusercontent.com/Kaitozerob/Report-PlusRoom/refs/heads/main/assets/SoftwareConfigurationManagement/SoftwareDeveloperEnvironmentConfiguration/Discord.png?token=GHSAT0AAAAAADALQOIAXEDWJJVFU5GD7IA62APVOSA)
+![Discord](https://media.discordapp.net/attachments/1366161780409372742/1366474326122954863/Discord.png?ex=681113e3&is=680fc263&hm=dede9399648fdc29c11c41d7ff69e7b75da35ae1ddddac60523648e9e20e2b79&=&format=webp&quality=lossless)
 
 ---
 
@@ -33,7 +33,7 @@ Para gestionar los avances y coordinar los trabajos en tiempo real y de manera o
 - **Descripción:** Sistema de control de versiones diseñado para la eficiencia y la colaboración en proyectos de software.
 - **Link:** [Git](https://git-scm.com/)
 
-![Git](https://raw.githubusercontent.com/Kaitozerob/Report-PlusRoom/refs/heads/main/assets/SoftwareConfigurationManagement/SoftwareDeveloperEnvironmentConfiguration/Git.png?token=GHSAT0AAAAAADALQOIA22SRVQPQYEQ6PV462APVPCA)
+![Git](https://media.discordapp.net/attachments/1366161780409372742/1366474327200895129/Git.png?ex=681113e3&is=680fc263&hm=6b32a107c34f48e5bcd40406fecfbaf4ce3e081c296a548e93c9390d0bf88f99&=&format=webp&quality=lossless)
 
 ---
 
@@ -48,7 +48,7 @@ Para el diseño de la experiencia de usuario y las interfaces, utilizamos herram
 - **Descripción:** Herramienta en línea para el mapeo de la trayectoria del cliente, creación de mapas de impacto y perfiles de usuarios.
 - **Link:** [Uxpressia](https://uxpressia.com/)
 
-![Uxpressia](https://raw.githubusercontent.com/Kaitozerob/Report-PlusRoom/refs/heads/main/assets/SoftwareConfigurationManagement/SoftwareDeveloperEnvironmentConfiguration/UXPRESSIA.png?token=GHSAT0AAAAAADALQOIAIKOREYL3N7WA26RQ2APVPXA)
+![Uxpressia](https://media.discordapp.net/attachments/1366161780409372742/1366474365188706315/UXPRESSIA.png?ex=681113ec&is=680fc26c&hm=c14d545d1ec3993fc4b57784434922119a2e8aefb946fd125d29700a3c4d8c15&=&format=webp&quality=lossless)
 
 ---
 
@@ -57,7 +57,7 @@ Para el diseño de la experiencia de usuario y las interfaces, utilizamos herram
 - **Descripción:** Editor de gráficos vectoriales y herramienta de prototipado colaborativo basada en la web.
 - **Link:** [Figma](https://www.figma.com/)
 
-![Figma](https://raw.githubusercontent.com/Kaitozerob/Report-PlusRoom/refs/heads/main/assets/SoftwareConfigurationManagement/SoftwareDeveloperEnvironmentConfiguration/Figma.png?token=GHSAT0AAAAAADALQOIB4IXDBLHEU5ZAP2EQ2APVQGQ)
+![Figma](https://media.discordapp.net/attachments/1366161780409372742/1366474326416560249/Figma.png?ex=681113e3&is=680fc263&hm=184b655f5021e8723ec393b214146e11a5a5b413e11c6e1a8f362257c52390aa&=&format=webp&quality=lossless)
 
 ---
 
@@ -66,7 +66,7 @@ Para el diseño de la experiencia de usuario y las interfaces, utilizamos herram
 - **Descripción:** Herramienta de diagramación para crear diagramas de flujo, organigramas, wireflows y mapas mentales.
 - **Link:** [Lucidchart](https://www.lucidchart.com/)
 
-![Lucidchart](https://raw.githubusercontent.com/Kaitozerob/Report-PlusRoom/refs/heads/main/assets/SoftwareConfigurationManagement/SoftwareDeveloperEnvironmentConfiguration/LucidChart.png?token=GHSAT0AAAAAADALQOIBTBHF6PVTQBIT75PY2APVQWQ)
+![Lucidchart](https://media.discordapp.net/attachments/1366161780409372742/1366474349485494313/LucidChart.png?ex=681113e8&is=680fc268&hm=44081dac48f21cdf53c08e1f0946422b698130c676cfc24deebbf1ef3fd62e8e&=&format=webp&quality=lossless)
 
 ---
 
@@ -81,7 +81,7 @@ Para el desarrollo de la landing page y la aplicación móvil, empleamos los sig
 - **Descripción:** Framework de desarrollo de aplicaciones de código abierto, creado por Google, que permite crear apps nativas y web desde una sola base de código.
 - **Link:** [Flutter](https://developer.android.com/studio)
 
-![Flutter](https://raw.githubusercontent.com/Kaitozerob/Report-PlusRoom/refs/heads/main/assets/SoftwareConfigurationManagement/SoftwareDeveloperEnvironmentConfiguration/Flutter.png?token=GHSAT0AAAAAADALQOIBEZ4JCUXOOBCF4PMS2APVRDA)
+![Flutter](https://media.discordapp.net/attachments/1366161780409372742/1366474326731395163/Flutter.png?ex=681113e3&is=680fc263&hm=613bcba9deb35253ff91b95af971fadd025ad8b68a2168632cce3c29651ec436&=&format=webp&quality=lossless)
 
 ---
 
@@ -90,16 +90,29 @@ Para el desarrollo de la landing page y la aplicación móvil, empleamos los sig
 - **Descripción:** Entorno de desarrollo integrado (IDE) con soporte para múltiples lenguajes como Java, Kotlin, JavaScript, entre otros.
 - **Link:** [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 
-![IntelliJ IDEA Ultimate](https://raw.githubusercontent.com/Kaitozerob/Report-PlusRoom/refs/heads/main/assets/SoftwareConfigurationManagement/SoftwareDeveloperEnvironmentConfiguration/IntellijIDEAUltimate.png?token=GHSAT0AAAAAADALQOIB2V6SV3RCZGE2B4CK2APVRYA)
+![IntelliJ IDEA Ultimate](https://media.discordapp.net/attachments/1366161780409372742/1366474349103808542/IntellijIDEAUltimate.png?ex=681113e8&is=680fc268&hm=be035be8be54cb8edc964019ff4a342e5962d5abb3eca941e656329addfeea15&=&format=webp&quality=lossless)
 
 ---
+
+##### Android Studio
+- **Descripción:** Entorno de desarrollo integrado (IDE) para el desarrollo de aplicaciones Android, basado en IntelliJ IDEA.
+- **Link:** [Android Studio](https://developer.android.com/studio)
+
+![Android Studio](https://cdn.discordapp.com/attachments/1366161780409372742/1366477624096063658/1200px-Android_Studio_icon_28202329.png?ex=681116f5&is=680fc575&hm=495ff349e06e8c27110c3aa32f0ea366d5b2a299811456f3ded4980a19f2db83&)
+
+---
+##### WebStorm
+- **Descripción:** IDE para JavaScript y TypeScript, con soporte para React, Angular y Vue.js.
+- **Link:** [WebStorm](https://www.jetbrains.com/webstorm/)
+
+![WebStorm](https://cdn.discordapp.com/attachments/1366161780409372742/1366477246940053574/1rCK7fhfY9jb-osA77oaOAQ.png?ex=6811169b&is=680fc51b&hm=1ae645b37148660a6d4d7210efb287ba25a8b58cfbcc60c9e85cd339fc7c4725&)
 
 ##### GitHub
 
 - **Descripción:** Plataforma de desarrollo colaborativo que integra el sistema de control de versiones Git, permitiendo la gestión de proyectos en equipo.
 - **Link:** [GitHub](https://github.com/)
 
-![GitHub](https://raw.githubusercontent.com/Kaitozerob/Report-PlusRoom/refs/heads/main/assets/SoftwareConfigurationManagement/SoftwareDeveloperEnvironmentConfiguration/GitHub.png?token=GHSAT0AAAAAADALQOIA6D3NBHYXXC7ERDYW2APVSCQ)
+![GitHub](https://media.discordapp.net/attachments/1366161780409372742/1366474348428267601/GitHub.png?ex=681113e8&is=680fc268&hm=21c0317cf5caf3c38a65d249f9ab01745412c6260542442ef17dbb16109f5845&=&format=webp&quality=lossless)
 
 ---
 
@@ -107,7 +120,7 @@ Para el desarrollo de la landing page y la aplicación móvil, empleamos los sig
 
 - **Descripción:** Lenguaje de marcado estándar utilizado para la creación de páginas web.
 
-![HTML](https://raw.githubusercontent.com/Kaitozerob/Report-PlusRoom/refs/heads/main/assets/SoftwareConfigurationManagement/SoftwareDeveloperEnvironmentConfiguration/HTML.png?token=GHSAT0AAAAAADALQOIB2NHHZNXWKY4SR6JI2APVSQA)
+![HTML](https://media.discordapp.net/attachments/1366161780409372742/1366474348696830053/HTML.png?ex=681113e8&is=680fc268&hm=2ae716a94ae1e422966f01ceab3300b11a6c1b5b8903cb056660c35dea7e7935&=&format=webp&quality=lossless)
 
 ---
 
@@ -115,7 +128,7 @@ Para el desarrollo de la landing page y la aplicación móvil, empleamos los sig
 
 - **Descripción:** Lenguaje de hojas de estilo en cascada utilizado para definir y modificar la apariencia de documentos HTML.
 
-![CSS](https://raw.githubusercontent.com/Kaitozerob/Report-PlusRoom/refs/heads/main/assets/SoftwareConfigurationManagement/SoftwareDeveloperEnvironmentConfiguration/CSS.png?token=GHSAT0AAAAAADALQOIA426C2N7WCN6B6L5A2APVS2Q)
+![CSS](https://media.discordapp.net/attachments/1366161780409372742/1366474325745729656/CSS.png?ex=681113e3&is=680fc263&hm=0131a291a509f282259cf94149ba16c459d7825925968bc409ca2d1b9b68bb41&=&format=webp&quality=lossless)
 
 ---
 
