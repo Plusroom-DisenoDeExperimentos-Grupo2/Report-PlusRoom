@@ -118,3 +118,42 @@ Para el desarrollo de la landing page y la aplicación móvil, empleamos los sig
 ![CSS](https://raw.githubusercontent.com/Kaitozerob/Report-PlusRoom/refs/heads/main/assets/SoftwareConfigurationManagement/SoftwareDeveloperEnvironmentConfiguration/CSS.png?token=GHSAT0AAAAAADALQOIA426C2N7WCN6B6L5A2APVS2Q)
 
 ---
+
+### 5.1.2 Source Code Management
+
+Para todo el ciclo de vida de nuestro proyecto, utilizamos el sistema de control de versiones `Git`, donde la evidencia es visualizada y registrada en la plataforma de `GitHub` de nuestra organización.  
+Dentro de nuestra organización se puede visualizar todos los cambios y modificaciones hechos por cada miembro del equipo.
+
+- `Git`: Sistema de control de versiones distribuido que permite registrar los cambios de forma eficiente y coordinar el trabajo entre múltiples desarrolladores.
+- `GitHub`: Plataforma basada en Git que facilita la gestión remota de repositorios, la colaboración mediante `Pull Requests` y el control de cambios.
+
+Durante el desarrollo, implementamos estrategias de control de versiones para garantizar la calidad del código y el trabajo colaborativo, aplicando las siguientes prácticas:
+
+- **Uso de ramas:** Cada funcionalidad nueva fue trabajada en una rama separada para mantener la estabilidad del entorno principal (`main`, `developer`, `chapter-1`, `chapter-2`, `chapter-3`, `chapter-4`, `chapter-5`).
+- **Commits frecuentes:** Se realizaron commits pequeños y frecuentes para registrar el progreso de manera incremental y facilitar la trazabilidad de cambios.
+- **Pull Requests:** Se utilizó el mecanismo de `Pull Requests` para solicitar revisiones de código y asegurar la calidad antes de integrarlo a la rama principal.
+- **Convenciones de mensajes de commit:** Se siguió una estructura clara indicando el tipo de cambio (`feat`, `fix`, `docs`, `refactor`, etc.) y una breve descripción.
+
+Repositorio de la organización:
+
+[GitHub Organization - Plusroom-DiseñoDeExperimentos-Grupo2](https://github.com/Plusroom-DisenoDeExperimentos-Grupo2)
+
+---
+
+#### Participantes del Proyecto
+
+| Alumno | Correo | Usuario de GitHub |
+|:------|:------|:------------------|
+| Gustavo Pardo | [u202120347@upc.edu.pe](mailto:u202120347@upc.edu.pe) | [GAPZ17](https://github.com/GAPZ17) |
+| Mauricio Salas | [u202120467@upc.edu.pe](mailto:u202120467@upc.edu.pe) | [SalasMauricio](https://github.com/SalasMauricio) |
+| Gustavo Aguirre | [u202124162@upc.edu.pe](mailto:u202124162@upc.edu.pe) | [Jandroel](https://github.com/Jandroel) |
+| Joan Talizo | [u202223781@upc.edu.pe](mailto:u202223781@upc.edu.pe) | [Kaitozerob](https://github.com/Kaitozerob) |
+| Andrea O’Higgins | [u20221B178@upc.edu.pe](mailto:u20221B178@upc.edu.pe) | [AndreaOhiggins](https://github.com/AndreaOhiggins) |
+
+---
+#### Evidencia de Gestión de Código
+
+![GitHub Repository Evidence](https://raw.githubusercontent.com/Kaitozerob/Report-PlusRoom/refs/heads/main/assets/SoftwareConfigurationManagement/GitHubRepositoryEvidence/GitHubRepository.png?token=GHSAT0AAAAAADALQOIARWMMRBAA23XDRB762APWNZQ)
+
+---
+
