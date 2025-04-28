@@ -454,3 +454,33 @@ Puedes visualizar capturas del avance de la aplicación móvil a continuación:
 ![Mobile App Evidence 5](https://media.discordapp.net/attachments/1366161780409372742/1366512737739472937/PlusRoomMobileApplication_part5.png?ex=681137a9&is=680fe629&hm=d4e4d9cb327f829404b777c388d6f6cfcfaccd9783b7bb4cd28a22fa83118b67&=&format=webp&quality=lossless)
 
 ![Mobile App Evidence 6](https://media.discordapp.net/attachments/1366161780409372742/1366512738066497626/PlusRoomMobileApplication_part6.png?ex=681137a9&is=680fe629&hm=5c5c5cab647aadfaa216323a94ad65e5198f2d960e0f0f9148d585e3716dd69c&=&format=webp&quality=lossless)
+
+### 5.2.5 Implemented RESTful API and/or Serverless Backend Evidence
+
+Se implementó un **backend basado en arquitectura RESTful** utilizando `Spring Boot`, proporcionando servicios esenciales para la operación de la plataforma PlusRoom.
+
+- **Tecnologías utilizadas:** Java, Spring Boot, MySQL, JPA, Swagger
+- **Características del Backend:**
+  - Gestión de usuarios: registro, autenticación, recuperación de contraseñas.
+  - Gestión de publicaciones de habitaciones.
+  - Gestión de perfiles de usuarios (roomies y arrendadores).
+  - Gestión de mensajes internos entre usuarios.
+  - Gestión de archivos multimedia (carga y obtención de imágenes).
+
+El backend sigue el patrón de arquitectura de capas: controlador, servicio, repositorio y modelo.
+
+#### Evidencia del Backend
+
+Repositorio del Backend: [Ver Repositorio Backend PlusRoom](https://github.com/WX61-Grupo2-AplicacionesMoviles/backend-plusRoom.git)
+
+A continuación, se presentan capturas del backend desarrollado:
+
+![Backend Repository Evidence 1](https://media.discordapp.net/attachments/1366161780409372742/1366517919818711081/RESTfulAPI.png?ex=68113c7c&is=680feafc&hm=e5bcc84ee552e8a481ee7239ae7635992c118f81b964bcade6f4788a376b211d&=&format=webp&quality=lossless)
+
+![MySQL_Evidence_1](https://media.discordapp.net/attachments/1366161780409372742/1366518210286850199/ServicesDocumentationEvidence.png?ex=68113cc2&is=680feb42&hm=b10fc95dd87dbb8e6478d046adbbd33030f4c8696bd00ff93c65f60b46a01321&=&format=webp&quality=lossless)
+
+![MySQL_Evidence_2](https://media.discordapp.net/attachments/1366161780409372742/1366518210681245716/ServicesDocumentationEvidenceMySQL_part2.png?ex=68113cc2&is=680feb42&hm=5ca4ba6ec4a31774c0d4c89ab7ca60ea163f1b91b5f470dba40c529095129475&=&format=webp&quality=lossless)
+
+![MySQL_Evidence_3](https://media.discordapp.net/attachments/1366161780409372742/1366518211176169472/ServicesDocumentationEvidenceMySQL.png?ex=68113cc2&is=680feb42&hm=a8749ff615fb410edf5c2aa6f1412a53c190ad008fa9634a1c07242a768c88bd&=&format=webp&quality=lossless)
+
+![MySQL_Evidence_4](https://media.discordapp.net/attachments/1366161780409372742/1366518211620900985/SoftwareDeploymentEvidenceForSprintReview.png?ex=68113cc2&is=680feb42&hm=48d3fd95fad1661ff27fff2e5c0331b4d6b45e817fffa91dada8f79f7bf12283&=&format=webp&quality=lossless)
